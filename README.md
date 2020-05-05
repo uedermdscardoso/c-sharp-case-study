@@ -8,6 +8,8 @@ nomenclature: Corporation.Project.Layer
   <li>Visual Studio 2015</studio>
 </ul>
 
+<hr />
+
 ### Options (for study)
 <ul>
   <li>Select Web API</li>
@@ -28,8 +30,6 @@ nomenclature: Corporation.Project.Layer
 
 <hr />
 
-<hr />
-
 ### Dependencies
 <h3><b>ORM</b></h3>
 <ul>
@@ -42,4 +42,4 @@ nomenclature: Corporation.Project.Layer
   <li>Owin.Host.SystemWeb 3.1.0</li>
   <li>Owin.Security.OAuth 3.1.0</li>
   <li>Owin.Cors 3.1.0</li>
-</ul
+</ul>
