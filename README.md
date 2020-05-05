@@ -1,9 +1,36 @@
 # C#  - Rest API
 
+description: create ASP.NET Web Application  ->  Web API
+nomenclature: Corporation.Project.Layer
+
+### Options (for study)
+<ul>
+  <li>Select Web API</li>
+  <li>Check Web API</li>
+  <li>Uncheck unit tests</li>
+  <li>Uncheck 'host in the cloud'</li>
+  <li>No Authentication</li>
+</ul>
+
+<hr />
+
+### Commands
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<hr />
+
 ### Version
 <ul>
   <li>Visual Studio 2015</studio>
 </ul>
+
+<hr />
 
 ### Dependencies
 <h3><b>ORM</b></h3>
