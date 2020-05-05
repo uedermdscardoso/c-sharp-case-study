@@ -3,6 +3,11 @@
 description: create ASP.NET Web Application  ->  Web API
 nomenclature: Corporation.Project.Layer
 
+### Version
+<ul>
+  <li>Visual Studio 2015</studio>
+</ul>
+
 ### Options (for study)
 <ul>
   <li>Select Web API</li>
@@ -22,11 +27,6 @@ nomenclature: Corporation.Project.Layer
 </ul>
 
 <hr />
-
-### Version
-<ul>
-  <li>Visual Studio 2015</studio>
-</ul>
 
 <hr />
 
