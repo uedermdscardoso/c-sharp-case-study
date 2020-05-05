@@ -14,11 +14,11 @@ nomenclature: Corporation.Project.Layer
 
 <hr />
 
-### Commands
+### Commands (after EntityFramework installation)
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>View -> Other Window< -> Package Manager Console</li>
+  <li>Enable-Migrations -ProjectName Empresa.MinhaApi.AcessoDados.Entity (generated Configuration.cs file)</li>
+  <li>Add-Migration CriacaoTabelaAlunos -ProjectName Empresa.MinhaApi.AcessoDados.Entity -StartupProjectName Empresa.MinhaApi.AcessoDados.Entity (StartupProjectName - for connection string)</li>
   <li></li>
   <li></li>
 </ul>
